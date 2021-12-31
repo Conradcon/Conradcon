@@ -36,7 +36,7 @@
 [youtube]: https://youtube.com/
 [linkedin]: https://linkedin.com/in/mark-connor-a00b58a6
 
-[webicons]: https:/github.con/Conradcon/
+[webicons]: https://github.com/Conradcon/
 
 <!---
 Conradcon/Conradcon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
