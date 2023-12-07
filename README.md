@@ -1,4 +1,4 @@
-### I am currently a lecturer in Mangement Information Systems.
+### I am currently a lecturer in Business Analytics at UCD.
 
  :mag_right: My interests include evolutionary computation, intelligent systems, and sports analytics.  
  :books: Check out my research publications on [ResearchGate](https://www.researchgate.net/profile/Mark-Connor).  
