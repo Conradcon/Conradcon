@@ -1,9 +1,9 @@
-### I am currently a lecturer in Business Analytics at UCD.
+### I am currently a lecturer in Business Analytics at University College Dublin. 
 
  :mag_right: My interests include evolutionary computation, intelligent systems, and sports analytics.  
  :books: Check out my research publications on [ResearchGate](https://www.researchgate.net/profile/Mark-Connor).  
  :wrench: Open to collaborating on interesting projects and tools.  
- 🥅 2023 Goals: Contribute to more open source projects.
+
 
 ### Connect with me:
 
